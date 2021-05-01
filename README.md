@@ -1,7 +1,7 @@
 # Grootan-Mock-API
 
 ## Pattern of working
-* I have created a mock API using <a href="https://beecptor.com">Beeceptor</a> which will return a list of users.
+* I have created a mock API using <a href="https://beeceptor.com">Beeceptor</a> which will return a list of users.
 * I have created a dummy login and user registration page.
 * In this , I have consumed the API(Mock API - which i was created) and got the list of users registered.
 * After that,I displayed the records stored in API using HTML,CSS,BOOTSTRAP as UI.
