@@ -12,6 +12,10 @@
 
 <hr> 
 
+## Website hosted
+
+Webpage is hosted using 000webhostapp.com <a href="https://ramgrootanusers.000webhostapp.com/index.html">Click me to visit the website</a>
+
 ## Sample screenshots
 <p align="center">
   <img src="https://github.com/Ramalingasamy012/Grootan-Mock-API/blob/main/grrot1.PNG" width="350" alt="accessibility text">
