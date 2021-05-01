@@ -9,7 +9,7 @@
  <h1 class="display-4">GROOTAN USERS</h1>
 <ul class="list-group pmd-list pmd-card-list">
 <?php
-$string = "https://grootanusers.free.beeceptor.com/users";
+$string = "https://usersgroot.free.beeceptor.com/users";
 $data = json_decode(file_get_contents($string),true);
  foreach($data as $val)
  {
