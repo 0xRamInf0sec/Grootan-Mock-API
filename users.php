@@ -1,6 +1,6 @@
 <?php
 $id=$_POST['id'];
-$string = "https://grootanusers.free.beeceptor.com/userid=".$id;
+$string = "https://usersgroot.free.beeceptor.com/userid=".$id;
 $data = json_decode(file_get_contents($string),true);
 ?>
 <html>
